@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 [![GitHub Stars](https://img.shields.io/github/stars/echo-search/safesearch?style=social)](https://github.com/echo-search/safesearch/stargazers)  
-[![GitHub Issues](https://img.shields.io/github/issues/echo-search/safesearch)](https://github.com/echo-search/safesearch/issues)  
+[![GitHub Issues](https://img.shields.io/github/issues/echo-search/safesearch?style=social)](https://github.com/echo-search/safesearch/issues)  
 [![GitHub Forks](https://img.shields.io/github/forks/echo-search/safesearch?style=social)](https://github.com/echo-search/safesearch/network)  
 
 SafeSearch is a **kid-friendly, primary-school-focused search engine** built on the principles of **EchoSearch**, but limited to **trusted educational websites**. Perfect for classrooms, homeschooling, and the Girl Gang’s safe learning adventures.  
