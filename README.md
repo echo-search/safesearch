@@ -1,4 +1,4 @@
-# 🛡️ SafeSearch (echo-search)
+# 🛡️ SafeSearch (EchoSearch)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 [![GitHub Stars](https://img.shields.io/github/stars/echo-search/safesearch?style=social)](https://github.com/echo-search/safesearch/stargazers)  
