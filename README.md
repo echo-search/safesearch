@@ -92,8 +92,10 @@ https://*.coolmathgames.com/logic/*
 ## 🚀 Getting Started
 
 1. **Clone the repository**  
+```text
 git clone https://github.com/echo-search/safesearch.git  
 cd safesearch
+```
 
 2. **Open `index.html`** in a browser or host it on GitHub Pages.  
 
